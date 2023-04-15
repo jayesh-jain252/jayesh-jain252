@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jayesh</h1>
 <h3 align="center">Self-taught developer, coding my way to new possibilities!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jayesh-jain252&label=Profile%20views&color=0e75b6&style=flat" alt="jayesh-jain252" /> </p>
 
 - 🌱 I’m currently learning **Typescript, Nextjs**
 
